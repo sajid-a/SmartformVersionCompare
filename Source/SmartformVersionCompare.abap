@@ -1,4 +1,4 @@
-REPORT  ztest_xml.
+REPORT  zsmartform_compare.
 
 *--------------------------------------------------------------------*
 **** TYPE-POOLS
